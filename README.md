@@ -1,16 +1,31 @@
-# tictactoegame
+# A Tic-Tac-Toe (O-X) Game with Flutter.
 
-A new Flutter application.
+You are to implement a Tic-Tac-Toe using Flutter framework.
 
-## Getting Started
+## Task
 
-This project is a starting point for a Flutter application.
+Implement a Tic-Tac-Toe game with your own design.
 
-A few resources to get you started if this is your first Flutter project:
+Players can be between:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- player vs player
+- player vs computer
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Input
+
+None
+
+## Output
+
+None
+
+## Constraints
+
+- Use Flutter framework.
+
+-----
+
+### Example Input 1
+
+### Example Output 1
+
